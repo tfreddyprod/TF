@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "About Me",
-            "altText": "Careers page",
+            "altText": "About Me",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
