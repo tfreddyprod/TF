@@ -53,6 +53,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      text:
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
