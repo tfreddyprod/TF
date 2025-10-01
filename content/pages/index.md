@@ -7,7 +7,7 @@ sections:
       text: Tony Fredericks
       color: text-dark
       type: TitleBlock
-    subtitle: Example
+    subtitle: ''
     text: >
       I’m Tony, a technology-driven professional who has spent my life using
       digital tools to solve problems and create results. I specialize in
