@@ -10,12 +10,22 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: left">I’m Tony, a technology-driven professional
-      who has spent my life using digital tools to solve problems and create
-      results. I specialize in building strong relationships and turning them
-      into business outcomes, blending technical know-how with clear,
-      people-first communication.Without a traditional degree, I’ve proven
-      myself through hands-on experience and passion projects that improve
-      workflows, strengthen teams, and drive impact.</div>
+      who has been leveraging digital tools and systems my entire life to solve
+      problems, streamline processes, and deliver results. My career focus is on
+      building strong relationships and turning those connections into
+      measurable business outcomes.While I don’t come from a traditional
+      academic path, I’ve consistently proven my expertise through hands-on
+      experience and a track record of taking initiative. From implementing new
+      systems to leading passion projects, I’ve shown the ability to quickly
+      adapt, learn, and create solutions that improve both workflow and
+      collaboration.I stand out for blending technical knowledge with
+      people-first communication. I bridge the gap between technology and
+      business needs, ensuring that teams not only adopt new solutions but also
+      understand and benefit from them. My goal is always the same: to drive
+      impact through efficiency, innovation, and meaningful relationships.
+
+
+      </div>
 
     actions: []
     media:
