@@ -28,7 +28,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Music",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
