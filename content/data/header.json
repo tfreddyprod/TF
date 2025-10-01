@@ -24,7 +24,7 @@
         {
             "type": "SubNav",
             "label": "Projects",
-            "altText": "Projects page",
+            "altText": "Projects pag",
             "links": [
                 {
                     "type": "Link",
