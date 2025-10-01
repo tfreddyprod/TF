@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: left">I’m Tony, a technology-driven professional
+      <div style="text-align: center">I’m Tony, a technology-driven professional
       who has been leveraging digital tools and systems my entire life to solve
       problems, streamline processes, and deliver results. My career focus is on
       building strong relationships and turning those connections into
@@ -22,7 +22,10 @@ sections:
       people-first communication. I bridge the gap between technology and
       business needs, ensuring that teams not only adopt new solutions but also
       understand and benefit from them. My goal is always the same: to drive
-      impact through efficiency, innovation, and meaningful relationships.</div>
+      impact through efficiency, innovation, and meaningful relationships.
+
+
+      </div>
 
     actions: []
     media:
