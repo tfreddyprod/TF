@@ -7,7 +7,7 @@ sections:
       text: Tony Fredericks
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Example
     text: >
       Example example example. Example example example example example example
       example example example example example example example example example
