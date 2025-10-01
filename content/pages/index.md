@@ -18,6 +18,10 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          margin:
+            - mt-4
     badge:
       label: About ME
       color: text-primary
