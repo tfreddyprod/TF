@@ -12,16 +12,7 @@ sections:
       Example example example. Example example example example example example
       example example example example example example example example example
       example example.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/76f9d786-9937-4183-99de-784494f18284.JPG
       altText: Unblock your team boost your time to production preview
