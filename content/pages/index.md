@@ -14,7 +14,7 @@ sections:
       example example.
     actions: []
     media:
-      url: /images/abstract-background.svg
+      url: /images/76f9d786-9937-4183-99de-784494f18284.JPG
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
