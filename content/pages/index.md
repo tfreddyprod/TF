@@ -21,7 +21,7 @@ sections:
       styles:
         self:
           margin:
-            - mt-4
+            - mt-0
     badge:
       label: About ME
       color: text-primary
