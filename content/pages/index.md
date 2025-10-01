@@ -54,7 +54,7 @@ sections:
           - pb-16
           - pr-16
       text:
-        textAlign: left
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
