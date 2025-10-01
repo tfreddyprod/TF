@@ -22,10 +22,7 @@ sections:
       people-first communication. I bridge the gap between technology and
       business needs, ensuring that teams not only adopt new solutions but also
       understand and benefit from them. My goal is always the same: to drive
-      impact through efficiency, innovation, and meaningful relationships.
-
-
-      </div>
+      impact through efficiency, innovation, and meaningful relationships.</div>
 
     actions: []
     media:
