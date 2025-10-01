@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">I’m Tony, a technology-driven professional
+      <div style="text-align: left">I’m Tony, a technology-driven professional
       who has spent my life using digital tools to solve problems and create
       results. I specialize in building strong relationships and turning them
       into business outcomes, blending technical know-how with clear,
