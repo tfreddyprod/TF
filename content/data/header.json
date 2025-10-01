@@ -24,7 +24,7 @@
         {
             "type": "SubNav",
             "label": "Passion Projects",
-            "altText": "Dropdown",
+            "altText": "Passion Projects page",
             "links": [
                 {
                     "type": "Link",
