@@ -22,6 +22,7 @@ sections:
         self:
           margin:
             - mt-0
+          borderRadius: large
     badge:
       label: About ME
       color: text-primary
