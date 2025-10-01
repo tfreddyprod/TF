@@ -8,14 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
+    text: >
       Example example example. Example example example example example example
       example example example example example example example example example
-      example example. Example example example example example example example
-      example example example example 
-
-      example example example example example example example example example.
-
+      example example.
     actions:
       - label: Get started
         altText: ''
