@@ -15,7 +15,7 @@
         {
             "label": "About Me",
             "altText": "About Me",
-            "url": "/careers",
+            "url": "/About Me",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
