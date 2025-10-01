@@ -13,7 +13,7 @@ sections:
       who has spent my life using digital tools to solve problems and create
       results. I specialize in building strong relationships and turning them
       into business outcomes, blending technical know-how with clear,
-      people-first communication.Without a traditional degree, I’ve proven
+      people-first communication. Without a traditional degree, I’ve proven
       myself through hands-on experience and passion projects that improve
       workflows, strengthen teams, and drive impact.</div>
 
